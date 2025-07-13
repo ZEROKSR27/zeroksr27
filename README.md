@@ -1,60 +1,54 @@
-<h1 align="center">Hi, I'm Ibrahim 👋</h1>
-<p align="center">A self-driven web developer on a mission to master the stack and build wealth through code.</p>
-
----
-
-### 🚀 About Me
-
-- 🧠 Currently focused on mastering **Full Stack Web Development**
-- 🔥 Building: Interactive content platforms with **Next.js + Firebase + AI**
-- 🧪 Exploring: **Cybersecurity**, **Neurotech**, and **AI applications**
-- 💡 Always looking for better, faster, smarter ways to build
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Tools**  
-TypeScript · JavaScript · HTML5 · CSS3 · Git · Firebase · Node.js
-
-**Frameworks & Libraries**  
-Next.js · React · TailwindCSS · GSAP · Editor.js
-
-**Design & Productivity**  
-Figma · VS Code · Notion · Linear
-
----
-
-### 📈 GitHub Stats
-
+<h1 align="center">Ibrahim | Full-stack Web Dev in Progress 💻⚡</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&hide_border=true" width="48%" />
+  Focused on mastering Full Stack Web Development — recently started backend.  
+  Currently 17 (student in "SADIS" phase — moving slower for now, but coming back stronger next year).
 </p>
 
 ---
 
-### 🎯 Current Goals
+### 👤 Who I Am
 
-- ⚙️ Build real-time, server-side rendered apps using Firebase Admin + Next.js
-- 📚 Deep dive into **security principles** and **low-level web protocols**
-- 🌐 Launch my first monetized product before 18
-- 💬 Write and share technical insights & lessons learned
-
----
-
-### 💬 Quote I Live By
-
-> “Burn the boats. There’s no turning back.”  
-> — *Inspired by the mission*
+- 🎯 **Offer**: Not satisfied with the result? It was free.  
+- 🚀 **Goal**: Build real products that generate value (and income).  
+- 🧠 **Learning Style**: Independent, product-based. No bootcamps, no tutorial traps.  
+- 🧱 **Tech Foundation**: Solid with `React Native`, `TypeScript`, `TailwindCSS`, `GSAP` / `Framer Motion`, `Next.js`, `Git` / `Docker`, `Figma`.  
+- 📚 **Now**: Diving into backend and testing tools — while managing full-time school under Iraq's intense SADIS year.
 
 ---
 
-### 🌐 Connect With Me
+### 🧠 What I Know (And Use)
 
-[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/your-username) · [Twitter](https://twitter.com/your-username) · [GitHub](https://github.com/USERNAME)
+| Area of Focus               | Description                                                         |
+|------------------------------|---------------------------------------------------------------------|
+| 🧑‍💻 Web Applications          | UI-driven web apps, animations, dashboards, and complex desgins       |
+| 🌐 Front-end Development     | Strong experience with modern front-end tools & design systems     |
+| 🧩 Full Stack Development    | Recently transitioning into full-stack (backend still in progress) |
+| ⚒️ Tools & Practices         | Clean code, component-driven design, Git workflow, system thinking |
+
+---
+
+### 🎯 Current Learning Plan (Precision Roadmap)
+
+> "Building myself from every angle."
+
+- 🧠 Learn backend foundations (databases, auth, APIs, testing)
+- 🔁 Master deployment, CI/CD, and clean scalable architectures
+- 💡 Prepare for SADIS academic workload while maintaining dev rhythm
+- 📚 Document everything — code, progress, insights
+
+---
+
+### 📬 Let's Connect
+
+- 🌐 Portfolio: [zk-27.vercel.app](https://zk-27.vercel.app)
+- 💬 Facebook: [@yourhandle](https://twitter.com/yourhandle)
+- 💬 Discord: `zero_ksr_27`
+- 💬 LinkedIn: [*zk-27*](https://www.linkedin.com/in/ibrahim-haider-174374367/)
+- 📱 Phone: Available on request
+
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitors&color=grey&style=flat-square" alt="Visitor Count" />
+  <sub>🚧 This profile is in progress — and so am I.</sub>
 </p>
-
