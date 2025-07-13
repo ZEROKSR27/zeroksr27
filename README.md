@@ -1,4 +1,4 @@
-<h1 align="center">Ibrahim | Full-stack Web Dev in Progress 💻⚡</h1>
+<h1 align="center">Ibrahim | Full-stack Web Dev 💻⚡</h1>
 <p align="center">
   Focused on mastering Full Stack Web Development — recently started backend.  
   Currently 17 (student in "SADIS" phase — moving slower for now, but coming back stronger next year).
